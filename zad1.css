@@ -5,10 +5,15 @@
     --header3-color: #E9AEAF;
 }
 
-html, body, p {
+html, body {
     margin: 0;
     padding: 0;
     height: 100%;
+}
+
+p {
+    margin: 0;
+    padding: 0;
 }
 
 * {
